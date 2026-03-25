@@ -1,10 +1,10 @@
-# sc-permeation-est-air
+# sc-permeation-paper-data
 
 Simulation inputs (structures, topologies, and parameters) to reproduce the molecular dynamics simulations reported in:
 
 Rinto Thomas, Praveen Ranganath Prabhakar, Douglas J. Tobias, and Michael von Domaros,  
-**Modeling Diffusion and Permeation Across the Stratum Corneum Lipid Barrier**, arXiv:2510.14606 (2025).  
-https://arxiv.org/abs/2510.14606
+**Modeling Diffusion and Permeation Across the Stratum Corneum Lipid Barrier**, *ACS ES&T Air* **2026**, *3* (2), 580–589.  
+https://pubs.acs.org/doi/10.1021/acsestair.5c00412
 
 ## Overview
 
